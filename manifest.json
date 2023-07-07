@@ -1,0 +1,17 @@
+{
+  "background_color": "#000000",
+  "description": "",
+  "dir": "ltr",
+  "display": "fullscreen",
+  "name": "bluedome77.github",
+  "orientation": "any",
+  "scope": "/",
+  "short_name": "bluedome77.github",
+  "start_url": "/bluedome77.github.io",
+  "theme_color": "#ff0000",
+  "categories": [],
+  "screenshots": [],
+  "icons": [],
+  "shortcuts": [],
+  "lang": "en"
+}
