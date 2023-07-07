@@ -1,0 +1,15 @@
+CACHE MANIFEST
+# v1.0 : 07-07-2023
+ 
+CACHE:
+# pages
+index.html
+ 
+# styles & scripts
+ 
+# images
+ 
+NETWORK:
+ 
+FALLBACK:
+/ /index.html
