@@ -4,12 +4,3 @@ CACHE MANIFEST
 CACHE:
 # pages
 index.html
- 
-# styles & scripts
- 
-# images
- 
-NETWORK:
- 
-FALLBACK:
-/ /index.html
